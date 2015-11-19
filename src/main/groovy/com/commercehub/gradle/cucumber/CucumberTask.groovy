@@ -65,8 +65,6 @@ class CucumberTask extends DefaultTask implements CucumberRunnerOptions {
                 false,
                 false,
                 false,
-                '',
-                false,
                 true
         )
         reportBuilder.generateReports()
